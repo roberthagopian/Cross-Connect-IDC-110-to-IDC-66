@@ -1,5 +1,5 @@
 ![alt text](https://i.imgur.com/9dGxs20.jpeg)
-<h2>Cross-Connect 110 Block to 66 Block</h2>
+<h1>Cross-Connect 110 Block to 66 Block</h1>
 This purpose of this lab was to learn to cross-connect from a 66 Block to a 110 Block. This type of connection is the industry standard method of cross connecting or programming voice and telephone circuits within most commercial installations.
 
 <br />
